@@ -1,1 +1,1 @@
-I tested whether at least one category had a significantly different mean.
+I tested whether at least one category among 1, 2, 3 had a significantly different mean.
